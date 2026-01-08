@@ -39,12 +39,6 @@ The assistant responds with relevant and simple information
 Helps bridge the technology gap in rural and farming communities
 
 
-
-📷 Screenshots
-
-Add screenshots of your application here (optional but recommended).
-
-
 🔗 Live Demo
 
 https://agrivoice-assistant-9i7ip52.public.builtwithrocket.new/
